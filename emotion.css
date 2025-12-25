@@ -39,6 +39,7 @@ body {
   font-family: 'Pacifico', cursive;
   position: relative;
   left: -270px;
+  margin-left:20px;
 }
 .navigation ul {
   display: flex;
